@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on [Shalue](https://github.com/Greg-Create/shoe_price_tracker)
 
-- 🌱 I’m currently learning **Ethical Hacking, Machine Learning, Data Science**
-
-- I am looking for mentors in **AI and Ethical Hacking**
+- 🌱 I am interested In Web Development, Machine Learning, Ethical Hacking, and Startups
 
 - 📫 How to reach me **gregory.ovis@gmail.com**
 
