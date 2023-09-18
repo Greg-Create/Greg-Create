@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **gregory.ovis@gmail.com**
 
-- Visit my website - (http://www.gregovis.com/)
+- Visit my website - [gregovis.com](http://www.gregovis.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
