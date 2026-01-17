@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gregory</h1>
 <h3 align="center">A passionate web developer from Canada</h3>
 
-- 🔭 I’m currently working on [Shalue](https://github.com/Greg-Create/shoe_price_tracker)
+- 🔭 I’m currently working on [Derm AI](https://trydermai.app/)
 
-- 🌱 I am interested In Web Development, Machine Learning, and Ethical Hacking.
+- 🌱 I am interested in Full Stack Development, Machine Learning, and AI.
 
 - 📫 How to reach me **gregory.ovis@gmail.com**
 
-- Visit my website - [gregovis.com](http://www.gregovis.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
