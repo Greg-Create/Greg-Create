@@ -12,12 +12,6 @@ I love reading especially science fiction & fantasy, I am a competitive swimmer,
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/greg-ovis-354644270/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/greg-ovis-354644270/" height="30" width="40" /></a>
-</p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=greg-create&show_icons=true&locale=en&layout=compact" alt="greg-create" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=greg-create&show_icons=true&locale=en" alt="greg-create" /></p>
