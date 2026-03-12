@@ -14,4 +14,4 @@ I love reading especially science fiction & fantasy, I am a competitive swimmer,
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=greg-create&show_icons=true&locale=en" alt="greg-create" /></p>
+
