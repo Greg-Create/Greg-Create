@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gregory</h1>
+<h1 align="start">Hey I'm Greg</h1>
 <h3 align="center">A passionate web developer from Canada</h3>
 
 - 🔭 I’m currently working on [Derm AI](https://trydermai.app/)
