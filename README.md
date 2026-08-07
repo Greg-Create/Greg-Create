@@ -1,6 +1,6 @@
 <h1 align="start">Hey, i'm Greg</h1>
 
-I’m currently working on [Derm AI](https://trydermai.app/) and [Tmrw's Plan](https://www.tmrwsplan.com/)
+I’m currently working on [Derm AI](https://trydermai.app/) and [Orator App](https://theoratorapp.com/)
 
 I enjoy building consumer applications and automated workflows
 
